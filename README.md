@@ -4,7 +4,7 @@ through each of the cities with known distances only once. Although it is easy t
 it is very difficult to obtain the optimal solution and it is among the NP-difficult (Non polynomial-hard) problems in the literature.
 This makes it impossible, so different methods have been proposed that can solve the problem in a short time. One of these methods is genetic algorithms.
 
-The similation link is 
+The similation link is                                          
 [![Travelling Salesman Problem With solve with Genetic Algorithm](http://img.youtube.com/vi/cky7MUPLHWg/0.jpg)](http://www.youtube.com/watch?v=cky7MUPLHWg "Travelling Salesman Problem With solve with Genetic Algorithm")
 
 
