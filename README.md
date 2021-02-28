@@ -6,4 +6,4 @@ This makes it impossible, so different methods have been proposed that can solve
 
 The similation link is [![Travelling Salesman Problem With solve with Genetic Algorithm](https://youtube/cky7MUPLHWg.jpg)](https://youtu.be/cky7MUPLHWg)
 
-[![Travelling Salesman Problem With solve with Genetic Algorithm](https://img.youtube/cky7MUPLHWg.jpg)](https://youtu.be/cky7MUPLHWg "Travelling Salesman Problem With solve with Genetic Algorithm")
+[![Travelling Salesman Problem With solve with Genetic Algorithm](https://img.https://www.youtube.com/watchv=cky7MUPLHWg&feature=youtu.be&ab_channel=Abdulsamet1.jpg)](https://youtu.be/cky7MUPLHWg "Travelling Salesman Problem With solve with Genetic Algorithm")
